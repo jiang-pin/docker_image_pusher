@@ -5,3 +5,10 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 syncthing/syncthing:latest
+bltavares/zerotier:latest
+unwenliu/verysync:armv7
+jellyfin/jellyfin:latest
+p3terx/aria2-pro
+p3terx/ariang
+neosmemo/memos
+homeassistant/home-assistant:latest
