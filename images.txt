@@ -14,3 +14,10 @@ neosmemo/memos
 homeassistant/home-assistant:latest
 xiaoyaliu/alist:hostmode
 alpine:3.18.2
+xuanaimai/onecloud:21-08-15
+linuxserver/calibre-web:latest
+tailscale/tailscale
+liwei2633/gopeed:latest
+openspeedtest/latest
+portainer/portainer-ce:2.19.3
+filebrowser/filebrowser
