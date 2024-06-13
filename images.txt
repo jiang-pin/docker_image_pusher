@@ -12,3 +12,5 @@ p3terx/aria2-pro
 p3terx/ariang
 neosmemo/memos
 homeassistant/home-assistant:latest
+xiaoyaliu/alist:hostmode
+alpine:3.18.2
