@@ -21,3 +21,8 @@ liwei2633/gopeed:latest
 openspeedtest/latest
 portainer/portainer-ce:2.19.3
 filebrowser/filebrowser
+ailg/alist:hostmode
+nextcloud
+johngong/baidunetdisk:latest
+redis
+mysql
