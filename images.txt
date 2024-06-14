@@ -25,4 +25,5 @@ nextcloud
 johngong/baidunetdisk:latest
 redis
 mysql
---platform=linux/arm7 unwenliu/verysync:armv7
+linuxserver/transmission:latest
+--platform=linux/armv7 unwenliu/verysync:armv7
