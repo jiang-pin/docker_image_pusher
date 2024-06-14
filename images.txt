@@ -18,7 +18,7 @@ xuanaimai/onecloud:21-08-15
 linuxserver/calibre-web:latest
 tailscale/tailscale
 liwei2633/gopeed:latest
-openspeedtest
+openspeedtest/latest
 portainer/portainer-ce:2.19.3
 filebrowser/filebrowser
 ailg/alist:hostmode
