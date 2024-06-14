@@ -26,5 +26,4 @@ nextcloud
 johngong/baidunetdisk:latest
 redis
 mysql
-unwenliu/verysync
 cnk3x/xunlei
