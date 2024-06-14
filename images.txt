@@ -6,7 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 syncthing/syncthing:latest
 bltavares/zerotier:latest
---platform=linux/arm7 unwenliu/verysync
+unwenliu/verysync
 jellyfin/jellyfin:latest
 p3terx/aria2-pro
 p3terx/ariang
