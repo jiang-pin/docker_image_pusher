@@ -28,3 +28,9 @@ mysql
 linuxserver/transmission:latest
 hslr/sun-panel:latest
 linuxserver/qbittorrent:latest
+ailg/ggbond:latest
+nondanee/unblockneteasemusic:latest
+linuxserver/calibre-web
+deluan/navidrome:latest
+zadam/trilium
+sulinggg/openwrt:armv7
