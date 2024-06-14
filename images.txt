@@ -28,4 +28,3 @@ mysql
 linuxserver/transmission:latest
 hslr/sun-panel:latest
 linuxserver/qbittorrent:latest
-cnk3x/xunei
