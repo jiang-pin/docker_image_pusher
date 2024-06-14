@@ -34,3 +34,8 @@ linuxserver/calibre-web
 deluan/navidrome:latest
 zadam/trilium
 sulinggg/openwrt:armv7
+bpatrik/pigallery2:latest
+viktorstrate/photoview:2
+xware/xware:latest
+cnk3x/xunlei
+emby/embyserver_arm32v7:4.8.0.56
