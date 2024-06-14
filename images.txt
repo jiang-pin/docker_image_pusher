@@ -26,4 +26,6 @@ johngong/baidunetdisk:latest
 redis
 mysql
 linuxserver/transmission:latest
---platform=linux/armv7 unwenliu/verysync:armv7
+hslr/sun-panel:latest
+linuxserver/qbittorrent:latest
+cnk3x/xunei
