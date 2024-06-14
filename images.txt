@@ -27,5 +27,4 @@ johngong/baidunetdisk:latest
 redis
 mysql
 unwenliu/verysync
---platform=amd64 xiaoyaliu/alist
 cnk3x/xunlei
