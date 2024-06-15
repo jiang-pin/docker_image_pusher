@@ -36,3 +36,4 @@ zadam/trilium
 haroldli/alist-tvbox
 bpatrik/pigallery2:latest
 viktorstrate/photoview
+nicholascool/p4_money_arrange_module
