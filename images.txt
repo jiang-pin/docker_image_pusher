@@ -33,7 +33,6 @@ nondanee/unblockneteasemusic:latest
 linuxserver/calibre-web
 deluan/navidrome:latest
 zadam/trilium
-sulinggg/openwrt:armv7
+haroldli/alist-tvbox
 bpatrik/pigallery2:latest
 viktorstrate/photoview
-emby/embyserver_arm32v7:4.8.0.56
