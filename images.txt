@@ -37,3 +37,5 @@ haroldli/alist-tvbox
 bpatrik/pigallery2:latest
 viktorstrate/photoview
 cooderl/wewe-rss-sqlite:latest
+lycheeorg/lychee
+mariadb
