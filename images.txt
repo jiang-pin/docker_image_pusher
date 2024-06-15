@@ -39,5 +39,4 @@ viktorstrate/photoview
 cooderl/wewe-rss-sqlite:latest
 lycheeorg/lychee
 mariadb
-golang
-difegue/lanraragi
+kenlk/onlyoffice 
