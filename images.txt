@@ -43,3 +43,7 @@ kenlk/onlyoffice
 python:3.8.0-alpine3.10
 nriver/trilium-cn
 deluan/navidrome:latest
+cnk3x/xunlei:latest
+emby/embyserver
+clouddrive2
+b3log/siyuan
