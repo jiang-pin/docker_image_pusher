@@ -45,5 +45,12 @@ nriver/trilium-cn
 deluan/navidrome:latest
 cnk3x/xunlei:latest
 emby/embyserver
-clouddrive2
 b3log/siyuan
+library/wordpress
+moelin/1panel:latest
+codercom/code-server:latest
+gitlab/gitlab-ce:latest
+ghcr.io/dusk-labs/dim:dev
+searxng/searxng
+photoprism/photoprism
+jgraph/drawio
