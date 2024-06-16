@@ -54,3 +54,4 @@ ghcr.io/dusk-labs/dim:dev
 searxng/searxng
 photoprism/photoprism
 jgraph/drawio
+lscr.io/linuxserver/resilio-sync:latest
