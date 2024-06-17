@@ -57,4 +57,4 @@ jgraph/drawio
 lscr.io/linuxserver/resilio-sync:latest
 eclipse-mosquitto
 emqx/emqx:latest
-registry
+registry:2
