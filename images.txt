@@ -59,5 +59,4 @@ eclipse-mosquitto
 emqx/emqx:latest
 registry:2
 ghcr.io/chukysoria/duplicati:v0.2.6-armv7
-linuxserver/docker-duplicati
 phpmyadmin
