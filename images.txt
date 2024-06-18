@@ -58,5 +58,6 @@ lscr.io/linuxserver/resilio-sync:latest
 eclipse-mosquitto
 emqx/emqx:latest
 registry:2
---platform=v0.2.6-armv7 ghcr.io/chukysoria/duplicati
+ghcr.io/chukysoria/duplicati:v0.2.6-armv7
 phpmyadmin
+mongo
