@@ -61,3 +61,4 @@ registry:2
 ghcr.io/chukysoria/duplicati:v0.2.6-armv7
 phpmyadmin
 mongo
+hanxi/xiaomusic
