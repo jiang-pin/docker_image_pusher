@@ -18,7 +18,6 @@ xuanaimai/onecloud:21-08-15
 linuxserver/calibre-web:latest
 tailscale/tailscale
 liwei2633/gopeed:latest
-portainer/portainer-ce:latest
 filebrowser/filebrowser
 ailg/alist:hostmode
 nextcloud
@@ -65,3 +64,4 @@ hanxi/xiaomusic
 lscr.io/linuxserver/emulatorjs:latest
 6053537/portainer-ce
 mzz2017/v2raya
+portainer/portainer-ce:latest
