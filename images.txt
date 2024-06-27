@@ -64,3 +64,4 @@ mongo
 hanxi/xiaomusic
 lscr.io/linuxserver/emulatorjs:latest
 6053537/portainer-ce
+mzz2017/v2raya
