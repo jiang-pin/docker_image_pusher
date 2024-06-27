@@ -63,3 +63,5 @@ phpmyadmin
 mongo
 hanxi/xiaomusic
 lscr.io/linuxserver/emulatorjs:latest
+liwei2633/gopeed
+6053537/portainer-ce
